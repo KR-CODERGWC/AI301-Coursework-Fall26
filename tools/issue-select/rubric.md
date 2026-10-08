@@ -27,7 +27,7 @@ A filled rubric must contain:
 Cover what actually kills first contributions. The lecture named four
 families: the maintainer is alive, the repo is in use, the scope fits a
 newcomer, and nobody else is already on it. A rubric that ignores a family
-will fail eval issues designed around that family.
+will fail eval issues designed around that family. --!>
 
 ## Checks
 
