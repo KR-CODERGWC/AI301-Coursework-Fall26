@@ -4,7 +4,7 @@ This is your one repository for the whole course. You create it in unit 1
 from the course template, and its link is the whole submission at every
 check-in; graders open the folder for that unit's work.
 
-## What lives where
+## What Lives Where
 
 - `tools/`: your installed skill folders, one per unit in Beat 1. Unit 1
   is `issue-select/`, unit 2 `repro-check/`, unit 3 `plan-check/`, unit 4
